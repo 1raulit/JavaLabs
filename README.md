@@ -6,3 +6,5 @@
 - [Лабораторна 3](Lab3/README.md)
 - [Лабораторна 4](Lab4/README.md)
 - [Лабораторна 5](Lab5/README.md)
+- [Лабораторна 6](Lab6/README.md)
+- 
